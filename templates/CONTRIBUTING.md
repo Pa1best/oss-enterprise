@@ -6,8 +6,11 @@ The following is a set of guidelines for contributing to DirectShapeFramework. T
 ## Table Of Contents
 
 [How Can I Contribute?](#how-can-i-contribute)
+
   [Reporting Bugs](#reporting-bugs)
+  
   [Suggesting Echancements](#suggesting-enhancements)
+  
   [Submiting a Pull Request](#submitting-a-pull-request)
   
 ## How Can I Contribute?
