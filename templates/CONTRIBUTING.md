@@ -1,21 +1,12 @@
-## Contributing
+# Contributing
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
 The following is a set of guidelines for contributing to DirectShapeFramework. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-#### Table Of Contents
-
-[fork]: https://github.com/ORG/REPO/fork
-[pr]: https://github.com/ORG/REPO/compare
-[style]: STYLEGUIDE
-[code-of-conduct]: CODE_OF_CONDUCT.md
+## Table Of Contents
 
 Issues are created [here](https://github.com/electron/electron/issues/new).
-For submitting pull request go [here](## Submitting a pull request)
-
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
-
-Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+For submitting pull request go [here](### Submitting a pull request)
 
 ## How Can I Contribute?
 
