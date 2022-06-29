@@ -37,7 +37,7 @@ Explain the problem and include additional details to help maintainers reproduce
 
 * **Create a single Issue for single bug** Do not enumerate multiple bugs or feature requests in the same issue.
 * **Use a clear and descriptive title** for the issue to identify the problem.
-* **Describe the exact steps which reproduce the problem**]
+* The more information you can provide, the more likely someone will be successful at reproducing the issue and finding a fix.
 * **Include screenshots or animated GIFs** which show you following the described steps and clearly demonstrate the problem.
 * **If possible, attach the Revit project in which the bug occurred**
 
