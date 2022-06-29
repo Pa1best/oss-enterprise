@@ -5,8 +5,9 @@ The following is a set of guidelines for contributing to DirectShapeFramework. T
 
 ## Table Of Contents
 
-[How Can I Contribute?]([https://github.com/electron/electron/issues/new](https://github.com/PalbestGit/oss-enterprise/blob/contrib-guide/templates/CONTRIBUTING.md#how-can-i-contribute)).
-For submitting pull request go [here](### Submitting a pull request)
+[How Can I Contribute?](https://github.com/electron/electron/issues/new](https://github.com/PalbestGit/oss-enterprise/blob/contrib-guide/templates/CONTRIBUTING.md#how-can-i-contribute).
+
+For submitting pull request go [here](#how-can-i-contribute)
 
 ## How Can I Contribute?
 
