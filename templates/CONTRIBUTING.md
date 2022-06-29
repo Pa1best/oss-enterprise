@@ -51,12 +51,12 @@ Before creating a new Issue, please check [existing Issues](https://github.com/P
 ### Submitting a pull request
 
 #### Algorythm of proposing by Pull Request:
-0. [Fork][fork] and clone the repository [Only for the first time](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-0. Create a new branch
-0. Make your changes and ensure that your feature works stable
-0. Read this [Suggestions](#### Suggestions to make a good Pull Request)
-0. Push to your fork and [submit a pull request][pr]
-0. Wait for your pull request to be reviewed and merged.
+1. [Fork][fork] and clone the repository [Only for the first time](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+1. Create a new branch
+1. Make your changes and ensure that your feature works stable
+1. Read this [Suggestions](#### Suggestions to make a good Pull Request)
+1. Push to your fork and [submit a pull request][pr]
+1. Wait for your pull request to be reviewed and merged.
 
 #### Suggestions to make a good Pull Request
 
