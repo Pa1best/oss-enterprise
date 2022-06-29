@@ -1,7 +1,8 @@
 # Contributing
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+:+1::tada: First off, thanks for taking the time to contribute! :sunglasses::milky_way:
 
-The following is a set of guidelines for contributing to DirectShapeFramework. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to this repository. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+
 
 ## Table Of Contents
 
@@ -11,10 +12,11 @@ The following is a set of guidelines for contributing to DirectShapeFramework. T
  * [Suggesting Echancements](#suggesting-enhancements)
  * [Submiting a Pull Request](#submitting-a-pull-request)
   
+  
 ## How Can I Contribute?
 
 ### Reporting Bugs
-This section guides you through submitting a bug report for DirectShapeFramework. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :telescope:, and find related reports :mag_right:
+This section guides you through submitting a bug report for DirectShapeFramework. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :hammer::hammer:, and find related reports :mag_right:
 
 We are using [GitHub Issues](https://guides.github.com/features/issues/) for creating Bug reports.
 Before creating a new Issue, please check [Opened Issues](https://github.com/PalbestGit/oss-enterprise/issues) and [Closed Issues](https://github.com/PalbestGit/oss-enterprise/issues?q=is%3Aissue+is%3Aclosed).
@@ -45,11 +47,11 @@ Before creating a new Issue, please check [existing Issues](https://github.com/P
 ### Submitting a pull request
 
 #### Algorythm of proposing by Pull Request:
-1. [Fork][fork] and clone the repository [Only for the first time](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository (Only for the first time)
 1. Create a new branch
 1. Make your changes and ensure that your feature works stable
-1. Read this [Suggestions](#### Suggestions to make a good Pull Request)
-1. Push to your fork and [submit a pull request][pr]
+1. Read this [Suggestions](suggestions-to-make-a-good-pull-request)
+1. Push to your fork and [Submit a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 1. Wait for your pull request to be reviewed and merged.
 
 #### Suggestions to make a good Pull Request
