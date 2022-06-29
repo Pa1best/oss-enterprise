@@ -44,9 +44,9 @@ Before creating a new Issue, please check [existing Issues](https://github.com/P
 
 > **Use [Add] prefix** in the Issue Title to help others identify this Issue as Suggesting Enhancements
 
-### Submitting a pull request
+### Submitting A Pull Request
 
-#### Algorythm of proposing by Pull Request:
+#### Algorythm Of Proposing By Pull Request:
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository (Only for the first time)
 1. Create a new branch
 1. Make your changes and ensure that your feature works stable
@@ -54,7 +54,7 @@ Before creating a new Issue, please check [existing Issues](https://github.com/P
 1. Push to your fork and [Submit a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 1. Wait for your pull request to be reviewed and merged.
 
-#### Suggestions to make a good Pull Request
+#### Suggestions To Make A (Good) Pull Request
 
 * In general, commits [should be atomic](https://en.wikipedia.org/wiki/Atomic_commit#Atomic_commit_convention) and diffs should be easy to read. For this reason, do not mix any formatting fixes or code moves with actual code changes.
 * Commits should be named according to [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
