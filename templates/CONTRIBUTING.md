@@ -51,7 +51,7 @@ Before creating a new Issue, please check [existing Issues](https://github.com/P
 1. Create a new branch
 1. Make your changes and ensure that your feature works stable
 1. Read this [Suggestions](suggestions-to-make-a-good-pull-request)
-1. Push to your fork and [Submit a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+1. Push to your fork and [Submit a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to original repository
 1. Wait for your pull request to be reviewed and merged.
 
 #### Suggestions To Make A (Good) Pull Request
