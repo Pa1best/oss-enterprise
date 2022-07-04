@@ -16,9 +16,9 @@ For now you can download or copy local this project and build in release mode Di
 
 DirectShapeFramework is based on .Net Framework 4.7.2. It is supported by Revit 2019 or higher.
 
-## Contributing
+## Found a bug or want to contribute?
 
-If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information about how to report a bug, suggest echancements and contribute.
 
 ## License
 
