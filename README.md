@@ -1,23 +1,25 @@
-# Releasing Open Source
+![logo](https://user-images.githubusercontent.com/68376046/177031470-779413b1-72bf-4b09-bce9-b8cee24c3bf9.png)
 
-You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+This light weight and easy-to-use library helps to visualize hidden Revit Geometry, Bounding Boxes, Vectors, lines, points and so on. 
 
-## What should be open source?
+## How it works?
+This framework uses Revit API [DirectShape](https://www.revitapidocs.com/2017.1/bfbd137b-c2c2-71bb-6f4a-992d0dcf6ea8.htm#:~:text=This%20class%20is%20used%20to,may%20be%20assigned%20a%20category.) class to visualize hidden geometry as a real Generic Model instance. It helps you to analyze hidden geometry, check demensions and increase your performance in Revit API Geometry projects.
 
-It's easier to answer this question in terms of what should **not** be open sourced:
+Click :point_up_2: on the image below :beginner: to watch a small gif demo.
+![demo](https://user-images.githubusercontent.com/68376046/177167161-0eba6f1f-142d-45dd-89ae-1ca6442457c4.gif)
 
-1. Don't open source anything that represents core business value.  If it makes us lots of money by being closed source, don't open source it.
-2. Don't open source anything that is specific to internal processes. If it won't be useful to anyone that doesn't work here, don't open source it.
-3. Don't open source anything you can't commit to maintaining long-term. Some projects are inherently difficult to maintain. If you don't want to spend time accepting contributions and working with the open source community, don't open source it.
+## Installation
 
-## Open Source Maintainer Expectations
+For now you can download or copy local this project and build in release mode DirectShapeFramework library. Later I will set up this library as a .nuget package.
 
-Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainers-guide.md) to understand what will be expected of you.
+## Supported Revit versions
 
-## FAQ
+DirectShapeFramework is based on .Net Framework 4.7.2. It is supported by Revit 2019 or higher.
 
-#### Who owns the code I contribute to open source projects?
+## Contributing
+
+If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
 
 ## License
 
-This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+[MIT](LICENSE.md)
