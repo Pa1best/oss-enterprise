@@ -22,4 +22,4 @@ If you are interested in reporting/fixing issues and contributing directly to th
 
 ## License
 
-This project uses MIT license. Read [CONTRIBUTING.md](LICENSE.md) for more information.
+This project uses MIT license. Read [LICENSE.md](LICENSE.md) for more information.
